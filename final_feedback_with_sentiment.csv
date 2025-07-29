@@ -1,0 +1,51 @@
+Name,Event,Rating,What did you like about the event?,What could be improved?,Any other comments?,Sentiment,Sentiment_Label
+Yeswanthira,Career Seminar,4,The event was well-organized and fun.,Could improve time management.,It was okay overall.,0.25,Positive
+Revathi,Career Seminar,5,The speakers were inspiring.,Food options could be better.,Hope for better planning next time.,0.25,Positive
+Pavithra,Sports Meet,3,Great energy and participation.,Food options could be better.,Great job by the volunteers!,1.0,Positive
+Manoj,Career Seminar,3,Everything ran smoothly.,Could improve time management.,Looking forward to the next event.,0.0,Neutral
+Harish,Workshop,1,The speakers were inspiring.,Food options could be better.,It was okay overall.,0.25,Positive
+Rajalakshmi,Career Seminar,2,Great energy and participation.,Food options could be better.,Great job by the volunteers!,1.0,Positive
+Suresh,Cultural Day,5,The speakers were inspiring.,Food options could be better.,Great job by the volunteers!,1.0,Positive
+Sathish,Cultural Day,4,The speakers were inspiring.,Need more interactive sessions.,Thanks for organizing!,0.25,Positive
+Naveen,Cultural Day,5,Everything ran smoothly.,The sound system had issues.,Great job by the volunteers!,1.0,Positive
+Arun,Workshop,4,The speakers were inspiring.,Food options could be better.,Thanks for organizing!,0.25,Positive
+Saravanan,Career Seminar,1,Everything ran smoothly.,The event started late.,It was okay overall.,0.25,Positive
+Lokesh,Cultural Day,1,The speakers were inspiring.,Food options could be better.,Thanks for organizing!,0.25,Positive
+Ajay,Sports Meet,4,Everything ran smoothly.,Food options could be better.,It was okay overall.,0.25,Positive
+Shalini,Workshop,1,Loved the interactive sessions!,Food options could be better.,It was okay overall.,0.25,Positive
+Preethi,Sports Meet,2,Loved the interactive sessions!,Need more interactive sessions.,Hope for better planning next time.,0.25,Positive
+Ravi,Career Seminar,5,Loved the interactive sessions!,The event started late.,Hope for better planning next time.,0.25,Positive
+Deepa,Workshop,3,Loved the interactive sessions!,Food options could be better.,Looking forward to the next event.,0.0,Neutral
+Bhavana,Tech Fest,5,The event was well-organized and fun.,The event started late.,It was okay overall.,0.25,Positive
+Gokul,Cultural Day,3,The speakers were inspiring.,Need more interactive sessions.,Great job by the volunteers!,1.0,Positive
+Santhosh,Tech Fest,4,Everything ran smoothly.,Food options could be better.,It was okay overall.,0.25,Positive
+Vikram,Workshop,2,Everything ran smoothly.,Food options could be better.,Looking forward to the next event.,0.0,Neutral
+Vignesh,Workshop,4,Loved the interactive sessions!,Need more interactive sessions.,Thanks for organizing!,0.25,Positive
+Yamuna,Sports Meet,4,The event was well-organized and fun.,Could improve time management.,It was okay overall.,0.25,Positive
+Devi,Tech Fest,4,The event was well-organized and fun.,Food options could be better.,Hope for better planning next time.,0.25,Positive
+Anitha,Career Seminar,3,The speakers were inspiring.,Need more interactive sessions.,Thanks for organizing!,0.25,Positive
+Madhan,Cultural Day,2,The event was well-organized and fun.,Could improve time management.,Thanks for organizing!,0.25,Positive
+Ganesh,Career Seminar,3,Great energy and participation.,Need more interactive sessions.,Hope for better planning next time.,0.25,Positive
+Radha,Sports Meet,3,The speakers were inspiring.,The event started late.,Hope for better planning next time.,0.25,Positive
+Aishwarya,Sports Meet,5,Loved the interactive sessions!,Could improve time management.,Hope for better planning next time.,0.25,Positive
+Rajesh,Tech Fest,5,Everything ran smoothly.,Need more interactive sessions.,Great job by the volunteers!,1.0,Positive
+Lakshmi,Cultural Day,1,Great energy and participation.,The event started late.,Hope for better planning next time.,0.25,Positive
+Murali,Cultural Day,1,Loved the interactive sessions!,Food options could be better.,Great job by the volunteers!,1.0,Positive
+Arvind,Tech Fest,5,The event was well-organized and fun.,The sound system had issues.,Thanks for organizing!,0.25,Positive
+Praveen,Sports Meet,4,Everything ran smoothly.,Could improve time management.,Hope for better planning next time.,0.25,Positive
+Karthik,Tech Fest,1,Everything ran smoothly.,Could improve time management.,Looking forward to the next event.,0.0,Neutral
+Sindhu,Sports Meet,5,Loved the interactive sessions!,The sound system had issues.,Great job by the volunteers!,1.0,Positive
+Bala,Tech Fest,3,The event was well-organized and fun.,Could improve time management.,Looking forward to the next event.,0.0,Neutral
+Keerthi,Workshop,2,The event was well-organized and fun.,Could improve time management.,Thanks for organizing!,0.25,Positive
+Kiran,Career Seminar,2,Loved the interactive sessions!,The event started late.,Great job by the volunteers!,1.0,Positive
+Janani,Sports Meet,3,Great energy and participation.,The event started late.,Looking forward to the next event.,0.0,Neutral
+Priya,Workshop,3,Everything ran smoothly.,Need more interactive sessions.,It was okay overall.,0.25,Positive
+Nandhini,Workshop,4,The speakers were inspiring.,Need more interactive sessions.,Great job by the volunteers!,1.0,Positive
+Sowmya,Workshop,5,Great energy and participation.,Could improve time management.,Thanks for organizing!,0.25,Positive
+Swapna,Sports Meet,3,The event was well-organized and fun.,The sound system had issues.,It was okay overall.,0.25,Positive
+Meena,Sports Meet,5,Everything ran smoothly.,Food options could be better.,Thanks for organizing!,0.25,Positive
+Hemalatha,Cultural Day,4,The event was well-organized and fun.,The event started late.,Looking forward to the next event.,0.0,Neutral
+Vinod,Sports Meet,5,Loved the interactive sessions!,Need more interactive sessions.,Hope for better planning next time.,0.25,Positive
+Divya,Tech Fest,1,The speakers were inspiring.,The event started late.,Hope for better planning next time.,0.25,Positive
+Shruthi,Sports Meet,2,Everything ran smoothly.,The sound system had issues.,It was okay overall.,0.25,Positive
+Jaya,Career Seminar,5,Great energy and participation.,Could improve time management.,Thanks for organizing!,0.25,Positive
